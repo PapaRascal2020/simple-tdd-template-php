@@ -2,10 +2,9 @@
 
 A simple skeleton project to test PHP with PHPUnit.
 
-## To use
+## First Steps
 
 * Download/Clone the repository
-* Open root folder in the terminal/command prompt
 
 I have included a simple math test just to show its working.
 This is what I use for my PHP TDD.
@@ -15,7 +14,7 @@ This is what I use for my PHP TDD.
 You create the PHPUnit test in the tests directory and the clss for the functions in src folder.
 
 ## Run tests
-
+ * Open root folder in the terminal/command prompt
  * php vendor/bin/phpunit tests --color
 
 ## Requirements
